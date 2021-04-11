@@ -10,7 +10,7 @@ Or maybe some *interesting* things.
 
 Check out this cool page: [google](https://google.com)
 
-![](/static/dog%20cartoon.jpg)
+![](/dog%20cartoon.jpg)
 
 
 # Heading
